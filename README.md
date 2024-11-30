@@ -1,0 +1,2 @@
+This project is a simple product management system built with Django and Django REST Framework. It provides an API for managing products, including basic operations like creating, updating, and deleting product information. The product model includes fields for the title, price, and description, making it easy to store and manage essential product details. This API can be used in various applications, such as e-commerce platforms or inventory systems, to handle product data efficiently.
+
